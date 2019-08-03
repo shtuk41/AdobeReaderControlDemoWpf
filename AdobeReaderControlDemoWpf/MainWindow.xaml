@@ -1,0 +1,14 @@
+﻿<Window x:Class="AdobeReaderControlDemoWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="488" Width="469"
+        Loaded="WindowLoaded"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        AllowsTransparency="False">
+    
+    <Grid x:Name="grid1">
+
+    </Grid>
+
+</Window>
